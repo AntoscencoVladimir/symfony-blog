@@ -9,7 +9,7 @@ framework:
 
 web_profiler:
     toolbar: true
-    intercept_redirects: false
+    intercept_redirects: true
 
 monolog:
     handlers:
@@ -31,5 +31,6 @@ monolog:
         #    type:   chromephp
         #    level:  info
 
-#swiftmailer:
+swiftmailer:
+    disable_delivery: true
 #    delivery_address: me@example.com
