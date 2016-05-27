@@ -17,6 +17,7 @@
 ##Ссылки на Habrahabr
 
 1. [Часть 1 — Конфигурация Symfony2 и шаблонов](https://habrahabr.ru/post/301760/) :pushpin:
+2. [Часть 2 — Страница с контактной информацией: валидаторы, формы и электронная почта](https://habrahabr.ru/post/302032/) :pushpin:
 
 =======================================
 ##Установка 
@@ -29,16 +30,12 @@
 
 4.Запустите команду в консоли 'composer install' для установки необходимых зависимостей, учтите для этого вам необходим установленный Composer для Windows скачать можно по [ссылке](https://getcomposer.org/doc/00-intro.md#installation-windows) :pushpin:
 
-5.Установите assets с помощью команды 'php app/console assets:install web' 
 
 
 Если у вас уже скопирован репозиторий то обновите зависимости командами 
 
 $ composer install
 
-и очистите кэш
-
-$ php app/console cache:clear
 
 =======================================
 ##Перемещение по коммитам (Урокам)
@@ -49,6 +46,6 @@ $ php app/console cache:clear
 
 3. Список коммитов доступен по [ссылке](https://github.com/AntoscencoVladimir/symfony-blog/commits/master) 
 
-4. Далее выполните необходимые пункты из раздела Установка
+4. Далее выполните команду в консоли 'composer install'
 
 =======================================
