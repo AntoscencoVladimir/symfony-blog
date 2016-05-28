@@ -20,7 +20,7 @@
 > Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k)
 
 А также благодарю
-> [@maximkou](https://habrahabr.ru/users/maximkou/), [@evheniy](https://habrahabr.ru/users/evheniy/), [@Big_Shark](https://habrahabr.ru/users/Big_Shark/)
+> [@maximkou](https://habrahabr.ru/users/maximkou/), [@evheniy](https://habrahabr.ru/users/evheniy/), [@Big_Shark](https://habrahabr.ru/users/Big_Shark/), [@baltazorbest](https://habrahabr.ru/users/baltazorbest/)
 
 
 =======================================
@@ -34,6 +34,11 @@
 
 1.Скопируйте репозиторий
 
-2.Запустите команду в консоли 'composer install' для установки необходимых зависимостей, учтите для этого вам необходим установленный Composer для Windows скачать можно по [ссылке](https://getcomposer.org/doc/00-intro.md#installation-windows) :pushpin:
+2.Запустите команду в консоли 
+
+> composer install
+
+для установки необходимых зависимостей, учтите для этого вам необходим установленный Composer для Windows скачать можно по [ссылке](https://getcomposer.org/doc/00-intro.md#installation-windows) :pushpin:
 
 3.Укажите ваши параметры для базы даных и т.д.
+
