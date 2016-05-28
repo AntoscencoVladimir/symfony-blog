@@ -17,7 +17,7 @@
 =======================================
 ##Благодарности
 
-Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k)
+> Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k)
 
 А также благодарю
 > [@maximkou](https://habrahabr.ru/users/maximkou/), [@evheniy](https://habrahabr.ru/users/evheniy/), [@Big_Shark](https://habrahabr.ru/users/Big_Shark/)
