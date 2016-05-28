@@ -11,3 +11,10 @@ BloggerBlogBundle_about:
     defaults: { _controller: "BloggerBlogBundle:Page:about" }
     requirements:
          methods:  GET
+
+# src/Blogger/BlogBundle/Resources/config/routing.yml
+BloggerBlogBundle_contact:
+    path:  /contact
+    defaults: { _controller: "BloggerBlogBundle:Page:contact" }
+    requirements:
+        methods:  GET|POST
