@@ -4,15 +4,11 @@
 ##Введение
 
 
-За основу взят и переведён проект разработчика Даррена Риса [http://tutorial.symblog.co.uk](http://tutorial.symblog.co.uk) :pushpin: 
+За основу взят и переведён проект разработчика Даррена Риса ([Darren Rees](https://twitter.com/dsyph3r))   [http://tutorial.symblog.co.uk](http://tutorial.symblog.co.uk) :pushpin: 
 
-Демо сайт на основе оригинальной статьи доступен по адресу [http://symblog.co.uk](http://symblog.co.uk) :pushpin:
+Демо сайт на основе оригинальной статьи доступен по адресу    [http://symblog.co.uk](http://symblog.co.uk) :pushpin:
 
-Перевод на русский язык - :bust_in_silhouette: [Антощенко Владимир](mailto:antoscenco@gmail.com)
-
-[:arrow_lower_right: vk](http://vk.com/devseaavi88) 
-
-[:arrow_lower_right: facebook](https://www.facebook.com/seamanavi) 
+Перевод на русский язык - :bust_in_silhouette: [Антощенко Владимир](mailto:antoscenco@gmail.com) | [:link: vk](http://vk.com/devseaavi88) | [:link: facebook](https://www.facebook.com/seamanavi) 
 
 =======================================
 ##Благодарности
@@ -53,6 +49,7 @@
 
 =======================================
 ###Способ 2
+=======================================
 
 Откройте консоль введите 
 
@@ -62,6 +59,7 @@
 
 =======================================
 ###Способ 3
+=======================================
 
 :one: Скачайте репозиторий себе на диск командой в консоли 
 
@@ -73,4 +71,5 @@
 
 ------------------------------------------------------------------------------------------------------------------
 
-(если хотите после перехода в нужную часть быть в своей ветке введите ```git checkout tags/Part* -b <название_ветки>)```
+если хотите после перехода в нужную часть быть в своей ветке введите
+ ```git checkout tags/Part* -b <название_ветки>```
