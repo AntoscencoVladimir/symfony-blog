@@ -19,9 +19,9 @@
 
 > Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k)
 
-А также благодарю
-| [@maximkou](https://habrahabr.ru/users/maximkou/) | [@evheniy](https://habrahabr.ru/users/evheniy/) | [@Big_Shark](https://habrahabr.ru/users/Big_Shark/) | [@baltazorbest](https://habrahabr.ru/users/baltazorbest/) |
-| --- | --- | --- | --- |
+А также благодарю:
+ [@maximkou](https://habrahabr.ru/users/maximkou/) | [@evheniy](https://habrahabr.ru/users/evheniy/) | [@Big_Shark](https://habrahabr.ru/users/Big_Shark/) | [@baltazorbest](https://habrahabr.ru/users/baltazorbest/) 
+
 
 =======================================
 ##Ссылки на Habrahabr
@@ -58,19 +58,19 @@
 
 ```git clone --branch Lesson* https://github.com/AntoscencoVladimir/symfony-blog```
 
-где вместо * номер нужной вам части руководства и далее выполните всё начиная с :arrow_up:[4 пункта Первого способа](#Способ-1)
+где вместо * номер нужной вам части руководства и далее выполните всё начиная с 4 пункта Первого способа
 
 =======================================
 ###Способ 3
 
 :one: Скачайте репозиторий себе на диск командой в консоли 
 
-```git clone https://github.com/AntoscencoVladimir/symfony-blog.git``` (или скачайте и распакуйе архив с репозиторием)
+```git clone https://github.com/AntoscencoVladimir/symfony-blog.git``` (или скачайте и распакуйте архив с репозиторием)
 
 :two: Откройте консоль из папки скаченного репозитория и введите команду ```git checkout tags/Part*```
 
-где вместо * номер нужной вам части руководства и далее выполните всё начиная с :arrow_up:[4 пункта Первого способа](#Способ-1)
+где вместо * номер нужной вам части руководства и далее выполните всё начиная с 4 пункта Первого способа
 
 ------------------------------------------------------------------------------------------------------------------
 
-(если хотите после перехода в нужную часть быть в своей ветке введите git checkout tags/Part* -b <название_ветки>)
+(если хотите после перехода в нужную часть быть в своей ветке введите ```git checkout tags/Part* -b <название_ветки>)```
