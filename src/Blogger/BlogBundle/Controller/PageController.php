@@ -29,7 +29,7 @@ class PageController extends Controller
 
         $form = $this->createForm(EnquiryType::class, $enquiry);
 
-        if ($request->getMethod() == 'POST') {
+        if ($request->isMethod($request::METHOD_POST)) {
             $form->handleRequest($request);
             if ($form->isValid()) {
                 $message = \Swift_Message::newInstance()
