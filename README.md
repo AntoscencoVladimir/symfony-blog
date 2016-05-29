@@ -1,4 +1,4 @@
-#**Создание блога на Symfony 2.8 lts**
+![Symfony 2.8 lts](https://github.com/AntoscencoVladimir/symfony-blog/blob/master/forgit.png)
 
 
 ##Введение
