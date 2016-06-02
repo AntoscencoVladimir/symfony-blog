@@ -16,7 +16,7 @@
 
     <p>Want to contact symblog?</p>
 
-    <form action="{{ path('BloggerBlogBundle_contact') }}" method="post" {{ form_start(form, { 'attr': {'class': 'blogger'} }) }}
+    {{ form_start(form, { 'action': path('BloggerBlogBundle_contact'), 'method': 'POST', 'attr': {'class': 'blogger'} }) }}
     {{ form_errors(form) }}
 
     {{ form_row(form.name) }}
