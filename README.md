@@ -42,11 +42,17 @@
 
 :five: Во время установки введите параметры вашей базы данных
 
-:six: После установки введите  ```php app/console assets:install web --symlink```
+:six: После установки введите  ```php app/console assets:install web --symlink``` 
 
-:seven: Запустите сервер командой  ```php app/console server:run``` , если используете IDE PHPStorm смотрите [в первой части руководства](https://habrahabr.ru/post/301760/) как упростить задачу запуска сервера
+:seven: Создайте базу данных  ```php app/console doctrine:database:create``` 
 
-:eight: Перейдите по адресу http://localhost:8000/
+:eight: Обновите схему  ```php app/console doctrine:schema:create``` 
+
+:nine: Загрузите фикстуры  ```app/console doctrine:fixtures:load``` 
+
+:keycap_ten: Запустите сервер командой  ```php app/console server:run``` , если используете IDE PHPStorm смотрите [в первой части руководства](https://habrahabr.ru/post/301760/) как упростить задачу запуска сервера
+
+:11: Перейдите по адресу http://localhost:8000/
 
 ------------------------------------------------------------------------------------------------------------------
 
