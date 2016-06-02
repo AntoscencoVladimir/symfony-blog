@@ -18,3 +18,11 @@ BloggerBlogBundle_contact:
     defaults: { _controller: "BloggerBlogBundle:Page:contact" }
     requirements:
         methods:  GET|POST
+
+# src/Blogger/BlogBundle/Resources/config/routing.yml
+BloggerBlogBundle_blog_show:
+    path:  /{id}
+    defaults: { _controller: BloggerBlogBundle:Blog:show }
+    requirements:
+        methods:  GET
+        id: \d+
