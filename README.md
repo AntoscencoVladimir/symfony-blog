@@ -1,7 +1,8 @@
-#**Создание блога на Symfony 2.8 lts**
+![Symfony 2.8 lts](https://github.com/AntoscencoVladimir/symfony-blog/blob/master/forgit.png)
 
 
 ##Введение
+
 
 За основу взят и переведён проект разработчика Даррена Риса ([Darren Rees](https://twitter.com/dsyph3r))   [http://tutorial.symblog.co.uk](http://tutorial.symblog.co.uk) :pushpin: 
 
@@ -15,7 +16,7 @@
 > Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k)
 
 А также благодарю:
- [@maximkou](https://habrahabr.ru/users/maximkou/) | [@evheniy](https://habrahabr.ru/users/evheniy/) | [@Big_Shark](https://habrahabr.ru/users/Big_Shark/) | [@baltazorbest](https://habrahabr.ru/users/baltazorbest/) 
+ [@maximkou](https://habrahabr.ru/users/maximkou/) | [@evheniy](https://habrahabr.ru/users/evheniy/) | [@Big_Shark](https://habrahabr.ru/users/Big_Shark/) | [@baltazorbest](https://habrahabr.ru/users/baltazorbest/) | [@Lev_Max](https://habrahabr.ru/users/Lev_Max/)  | [@Rukuki_Ake](https://habrahabr.ru/users/Rukuki_Ake/)
 
 
 =======================================
