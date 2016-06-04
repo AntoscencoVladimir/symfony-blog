@@ -25,6 +25,7 @@
 + [Часть 1 — Конфигурация Symfony2 и шаблонов](https://habrahabr.ru/post/301760/) :pushpin:
 + [Часть 2 — Страница с контактной информацией: валидаторы, формы и электронная почта](https://habrahabr.ru/post/302032/) :pushpin:
 + [Часть 3 — Doctrine 2 и Фикстуры данных](https://habrahabr.ru/post/302438/) :pushpin:
++ [Часть 4 — Модель комментариев, Репозиторий и Миграции Doctrine 2](https://habrahabr.ru/post/302602/) :pushpin:
 
 =======================================
 ##Установка нужной части руководства
@@ -48,7 +49,7 @@
 
 :eight: Обновите схему  ```php app/console doctrine:schema:update --force``` 
 
-:nine: Загрузите фикстуры  ```app/console doctrine:fixtures:load``` ,  на вопрос продолжить ли выполнение команды ответить: ```yes```
+:nine: Загрузите фикстуры  ```php app/console doctrine:fixtures:load``` ,  на вопрос продолжить ли выполнение команды ответить: ```yes```
 
 :keycap_ten: Запустите сервер командой  ```php app/console server:run``` , если используете IDE PHPStorm смотрите [в первой части руководства](https://habrahabr.ru/post/301760/) как упростить задачу запуска сервера
 
