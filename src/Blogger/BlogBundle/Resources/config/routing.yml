@@ -5,24 +5,31 @@ BloggerBlogBundle_homepage:
     requirements:
          methods:  GET
 
-# src/Blogger/BlogBundle/Resources/config/routing.yml
+
 BloggerBlogBundle_about:
     path:   /about
     defaults: { _controller: "BloggerBlogBundle:Page:about" }
     requirements:
          methods:  GET
 
-# src/Blogger/BlogBundle/Resources/config/routing.yml
+
 BloggerBlogBundle_contact:
     path:  /contact
     defaults: { _controller: "BloggerBlogBundle:Page:contact" }
     requirements:
         methods:  GET|POST
 
-# src/Blogger/BlogBundle/Resources/config/routing.yml
+
 BloggerBlogBundle_blog_show:
     path:  /{id}
     defaults: { _controller: BloggerBlogBundle:Blog:show }
     requirements:
         methods:  GET
         id: \d+
+
+BloggerBlogBundle_comment_create:
+    path:  /comment/{blog_id}
+    defaults: { _controller: "BloggerBlogBundle:Comment:create" }
+    requirements:
+        methods:  POST
+        blog_id: \d+
