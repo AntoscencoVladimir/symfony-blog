@@ -44,9 +44,9 @@
 
 :six: После установки введите  ```php app/console assets:install web --symlink``` 
 
-:seven: Создайте базу данных  ```php app/console doctrine:database:create``` 
+:seven: Создайте базу данных, если она еще не была создана ранее, то вызовите следующую команду  ```php app/console doctrine:database:create``` 
 
-:eight: Обновите схему  ```php app/console doctrine:schema:create``` 
+:eight: Обновите схему  ```php app/console doctrine:schema:update --force``` 
 
 :nine: Загрузите фикстуры  ```app/console doctrine:fixtures:load``` ,  на вопрос продолжить ли выполнение команды ответить: ```yes```
 
