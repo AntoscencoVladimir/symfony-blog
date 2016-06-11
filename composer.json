@@ -24,7 +24,8 @@
         "doctrine/doctrine-fixtures-bundle": "dev-master",
         "doctrine/data-fixtures" : "dev-master",
         "doctrine/doctrine-migrations-bundle": "dev-master",
-        "doctrine/migrations": "dev-master"
+        "doctrine/migrations": "dev-master",
+        "symfony/assetic-bundle": "dev-master"
     },
     "require-dev": {
         "sensio/generator-bundle": "~3.0",

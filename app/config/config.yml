@@ -69,3 +69,12 @@ swiftmailer:
 parameters:
     # Blogger contact email address
     blogger_blog.emails.contact_email: assistant@email.com
+
+assetic:
+    bundles:    [BloggerBlogBundle]
+    debug:          '%kernel.debug%'
+    use_controller: '%kernel.debug%'
+    filters:
+        cssrewrite: ~
+        yui_css:
+              jar: "%kernel.root_dir%/Resources/java/yuicompressor-2.4.7.jar"

@@ -1,0 +1,36 @@
+{# src/Blogger/BlogBundle/Resources/views/Page/sidebar.html.twig #}
+
+<section class="section">
+    <header>
+        <h3>Tag Cloud</h3>
+    </header>
+    <p class="tags">
+        {% for tag, weight in tags %}
+        <span class="weight-{{ weight }}">{{ tag }}</span>
+        {% else %}
+    <p>There are no tags</p>
+    {% endfor %}
+    </p>
+</section>
+<section class="section">
+    <header>
+        <h3>Latest Comments</h3>
+    </header>
+    {% for comment in latestComments %}
+        <article class="comment">
+            <header>
+                <p class="small"><span class="highlight">{{ comment.user }}</span> commented on
+                    <a href="{{ path('BloggerBlogBundle_blog_show', { 'id': comment.blog.id, 'slug': comment.blog.slug }) }}#comment-{{ comment.id }}">
+                        {{ comment.blog.title }}
+                    </a>
+
+                    [<em><time datetime="{{ comment.created|date('c') }}">{{ comment.created|created_ago }}</time></em>]
+                </p>
+            </header>
+            <p>{{ comment.comment }}</p>
+            </p>
+        </article>
+    {% else %}
+        <p>There are no recent comments</p>
+    {% endfor %}
+</section>
