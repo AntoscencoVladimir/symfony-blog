@@ -63,7 +63,7 @@
 
 После установки Symfony, вы можете запустить в консоли команду ```php app/check.php```, которая проверит и сообщит вам какие недостающие компоненты php вам надо установить.
 
-Еще Вам потребуется установить и настроить [MySQL](https://www.mysql.com/downloads/) сервер.
+Еще Вам потребуется установить и настроить [MySQL](https://www.mysql.com/downloads/) сервер, проще будет воспользоваться уже одной из готовых сборок типа [WAMP](http://www.wampserver.com/ru/#download-wrapper), [XAMPP](https://www.apachefriends.org/ru/download.html), [MAMP](https://www.mamp.info/en/downloads/) - в состав которых, уже входит mysql-server и все необходимые расширения для php.
 
 Пункты 7, 8, 9 необходимы начиная с 3-ей части руководства
 
