@@ -21,10 +21,14 @@
         filter='?yui_js'
         %}
         <script src="{{ asset_url }}"></script>
-        <script src="{{ asset('bundles/hawkapi/js/hawk_api.js') }}"></script>
-        <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>
-        <script src="{{ path('fos_js_routing_js', { callback: 'fos.Router.setData' }) }}"></script>
     {% endjavascripts %}
+    {% javascripts
+        '../vendor/post-hawk/hawk-api/Resources/public/js/hawk_api.min.js'
+    %}
+        <script src="{{ asset_url }}"></script>
+    {% endjavascripts %}
+    <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>
+    <script src="{{ path('fos_js_routing_js', { callback: 'fos.Router.setData' }) }}"></script>
 {% endblock %}
 
 {% block sidebar %}
