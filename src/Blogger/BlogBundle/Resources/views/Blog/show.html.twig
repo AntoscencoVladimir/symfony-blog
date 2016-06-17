@@ -4,7 +4,7 @@
 {% block title %}{{ blog.title }}{% endblock %}
 
 {% block body %}
-    <article class="blog">
+    <article class="blog" data-blog-id="{{ blog.id }}">
         <header>
             <div class="date"><time datetime="{{ blog.created|date('c') }}">{{ blog.created|date('l, F j, Y') }}</time></div>
             <h2>{{ blog.title }}</h2>

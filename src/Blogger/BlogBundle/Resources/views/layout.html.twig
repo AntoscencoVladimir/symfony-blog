@@ -14,6 +14,18 @@
 
 {% endblock %}
 
+{% block javascripts %}
+    {% javascripts
+        '@BloggerBlogBundle/Resources/public/js/*'
+        output='js/plugins,js'
+        filter='?yui_js'
+        %}
+        <script src="{{ asset_url }}"></script>
+        <script src="{{ asset('bundles/hawkapi/js/hawk_api.js') }}"></script>
+        <script src="{{ asset('bundles/fosjsrouting/js/router.js') }}"></script>
+        <script src="{{ path('fos_js_routing_js', { callback: 'fos.Router.setData' }) }}"></script>
+    {% endjavascripts %}
+{% endblock %}
 
 {% block sidebar %}
     {{ render(controller('BloggerBlogBundle:Page:sidebar' ))}}

@@ -78,3 +78,9 @@ assetic:
         cssrewrite: ~
         yui_css:
               jar: "%kernel.root_dir%/Resources/java/yuicompressor-2.4.7.jar"
+
+hawk_api:
+    client:
+        host: '%hawk_api.client.host%' #ip или домен
+        port: '%hawk_api.client.port%' #порт, который слушает клиент
+        key: '%hawk_api.client.key%'
