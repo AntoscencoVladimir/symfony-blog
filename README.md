@@ -10,8 +10,6 @@
 
 Перевод проекта на русский язык и адаптация под Symfony 2.8 lts - :bust_in_silhouette: [Антощенко Владимир](mailto:antoscenco@gmail.com) | [:link: vk](http://vk.com/devseaavi88) | [:link: facebook](https://www.facebook.com/seamanavi) 
 
-Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k) | [:link: LinkedIn] (https://www.linkedin.com/in/player0k)
-
 =======================================
 ##Благодарности
 
