@@ -10,13 +10,12 @@
 
 Перевод проекта на русский язык и адаптация под Symfony 2.8 lts - :bust_in_silhouette: [Антощенко Владимир](mailto:antoscenco@gmail.com) | [:link: vk](http://vk.com/devseaavi88) | [:link: facebook](https://www.facebook.com/seamanavi) 
 
+Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k) | [:link: LinkedIn] (https://www.linkedin.com/in/player0k)
+
 =======================================
 ##Благодарности
 
-> Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k) | [:link: LinkedIn] (https://www.linkedin.com/in/player0k)
-
-А также благодарю:
-[@maximkou](https://habrahabr.ru/users/maximkou/) | [@evheniy](https://habrahabr.ru/users/evheniy/) | [@Big_Shark](https://habrahabr.ru/users/Big_Shark/) | [@baltazorbest](https://habrahabr.ru/users/baltazorbest/) | [@Lev_Max](https://habrahabr.ru/users/Lev_Max/)  | [@Rukuki_Ake](https://habrahabr.ru/users/Rukuki_Ake/) | [@tatenen](https://habrahabr.ru/users/tatenen/) | [@VolCh](https://habrahabr.ru/users/VolCh/) | [@Fedot](https://habrahabr.ru/users/Fedot/) | [@Fesor](https://habrahabr.ru/users/Fesor/) | [@SiDz](https://habrahabr.ru/users/SiDz/) 
+[@maximkou](https://habrahabr.ru/users/maximkou/) | [@evheniy](https://habrahabr.ru/users/evheniy/) | [@Big_Shark](https://habrahabr.ru/users/Big_Shark/) | [@baltazorbest](https://habrahabr.ru/users/baltazorbest/) | [@Lev_Max](https://habrahabr.ru/users/Lev_Max/)  | [@Rukuki_Ake](https://habrahabr.ru/users/Rukuki_Ake/) | [@tatenen](https://habrahabr.ru/users/tatenen/) | [@VolCh](https://habrahabr.ru/users/VolCh/) | [@Fedot](https://habrahabr.ru/users/Fedot/) | [@Fesor](https://habrahabr.ru/users/Fesor/) | [@SiDz](https://habrahabr.ru/users/SiDz/) | [@ghost404](https://habrahabr.ru/users/ghost404/) 
 
 =======================================
 ##Ссылки на Habrahabr
@@ -26,6 +25,7 @@
 + [Часть 3 — Doctrine 2 и Фикстуры данных](https://habrahabr.ru/post/302438/) :pushpin:
 + [Часть 4 — Модель комментариев, Репозиторий и Миграции Doctrine 2](https://habrahabr.ru/post/302602/) :pushpin:
 + [Часть 5 — Twig расширения, Боковая панель(sidebar) и Assetic](https://habrahabr.ru/post/303114/) :pushpin:
++ [Часть 6 — Модульное и Функциональное тестирование](https://habrahabr.ru/post/303578/) :pushpin:
 
 Если Вам понравилось руководство Вы можете поставить :star: репозиторию проекта или подписаться. Спасибо.
 
