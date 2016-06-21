@@ -17,3 +17,6 @@ parameters:
 
     # A secret key that's used to generate certain security-related tokens
     secret:            ThisTokenIsNotSoSecretChangeIt
+    hawk_api.client.host: 127.0.0.1
+    hawk_api.client.port: 7777
+    hawk_api.client.key: 'very secret key'
