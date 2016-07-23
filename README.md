@@ -8,7 +8,7 @@
 
 Демо сайт на основе оригинальной статьи доступен по адресу    [http://symblog.co.uk](http://symblog.co.uk) :pushpin:
 
-Перевод проекта на русский язык и адаптация под Symfony 2.8 lts - :bust_in_silhouette: [Антощенко Владимир](mailto:antoscenco@gmail.com) | [:link: vk](http://vk.com/devseaavi88) | [:link: facebook](https://www.facebook.com/seamanavi) 
+Перевод проекта на русский язык и адаптация под Symfony 2.8 lts - :bust_in_silhouette: [Антощенко Владимир](mailto:antoscenco@gmail.com) | [:link: vk](http://vk.com/devseaavi88) | [:link: facebook](https://www.facebook.com/seamanavi) | [:link: LinkedIn] (https://www.linkedin.com/in/vladimir-antoscenco-73b870106)
 
 =======================================
 ##Благодарности
