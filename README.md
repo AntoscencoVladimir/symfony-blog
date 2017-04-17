@@ -1,7 +1,7 @@
 ![Symfony 2.8 lts](https://github.com/AntoscencoVladimir/symfony-blog/blob/master/forgit.png)
 
 
-##Введение
+## Введение
 
 
 За основу взят и переведён проект разработчика Даррена Риса ([Darren Rees](https://twitter.com/dsyph3r))   [http://tutorial.symblog.co.uk](http://tutorial.symblog.co.uk) :pushpin: 
@@ -11,7 +11,7 @@
 Перевод проекта на русский язык и адаптация под Symfony 2.8 lts - :bust_in_silhouette: [Антощенко Владимир](mailto:antoscenco@gmail.com) | [:link: vk](http://vk.com/devseaavi88) | [:link: facebook](https://www.facebook.com/seamanavi) | [:link: LinkedIn] (https://www.linkedin.com/in/vladimir-antoscenco-73b870106)
 
 =======================================
-##Благодарности
+## Благодарности
 
 Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k) | [:link: LinkedIn] (https://www.linkedin.com/in/player0k)
 
@@ -22,7 +22,7 @@
 [@maximkou](https://habrahabr.ru/users/maximkou/) | [@evheniy](https://habrahabr.ru/users/evheniy/) | [@Big_Shark](https://habrahabr.ru/users/Big_Shark/) | [@baltazorbest](https://habrahabr.ru/users/baltazorbest/) | [@Lev_Max](https://habrahabr.ru/users/Lev_Max/)  | [@Rukuki_Ake](https://habrahabr.ru/users/Rukuki_Ake/) | [@tatenen](https://habrahabr.ru/users/tatenen/) | [@VolCh](https://habrahabr.ru/users/VolCh/) | [@Fedot](https://habrahabr.ru/users/Fedot/) | [@Fesor](https://habrahabr.ru/users/Fesor/) | [@SiDz](https://habrahabr.ru/users/SiDz/) | [@ghost404](https://habrahabr.ru/users/ghost404/) 
 
 =======================================
-##Ссылки на Habrahabr
+## Ссылки на Habrahabr
 
 + [Часть 1 — Конфигурация Symfony2 и шаблонов](https://habrahabr.ru/post/301760/) :pushpin:
 + [Часть 2 — Страница с контактной информацией: валидаторы, формы и электронная почта](https://habrahabr.ru/post/302032/) :pushpin:
@@ -34,9 +34,9 @@
 Если Вам понравилось руководство Вы можете поставить :star: репозиторию проекта или подписаться. Спасибо.
 
 =======================================
-##Установка нужной части руководства
+## Установка нужной части руководства
 
-###Способ 1
+### Способ 1
 =======================================
 
 :one: Перейдите по [:link: ссылке](https://github.com/AntoscencoVladimir/symfony-blog/releases) и скачайте архив с нужным уроком
@@ -72,7 +72,7 @@
 Пункты 7, 8, 9 необходимы начиная с 3-ей части руководства
 
 =======================================
-###Способ 2
+### Способ 2
 =======================================
 
 Откройте консоль введите 
