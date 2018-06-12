@@ -13,7 +13,7 @@
 =======================================
 ## Благодарности
 
-Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k) | [:link: LinkedIn] (https://www.linkedin.com/in/player0k)
+Спасибо за помощь и рекомендации :bust_in_silhouette: [Player0k](https://github.com/player0k)
 
 ------------------------------------------------------------------------------------------------------------------
 
